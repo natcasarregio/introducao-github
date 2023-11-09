@@ -62,6 +62,19 @@ Branches allow you to separate your work from the `main` branch. In other words,
 <footer>
   
 
+Etapas para gerenciar um projeto github
+
+**criar ou clonar repositorio**
+
+**criar uma nova branch**
+
+**fazer e salvar as alteração nos arquivos**
+
+**executar o comando commit**
+
+**solicitar a mesclagem do codigo atraves do pull request**
+
+**realizar mearge do codigo para branch principal**
 <!--
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
